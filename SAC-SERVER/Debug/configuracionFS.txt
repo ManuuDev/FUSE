@@ -1,0 +1,4 @@
+IP=127.0.0.1
+PUERTO=20451
+PATH=disco.bin
+SIZE=10
